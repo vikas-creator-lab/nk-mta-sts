@@ -1,0 +1,6 @@
+version: STSv1
+mode: testing
+mx: mx.zoho.com.au
+mx: mx2.zoho.com.au
+mx: mx3.zoho.com.au
+max_age: 604800
